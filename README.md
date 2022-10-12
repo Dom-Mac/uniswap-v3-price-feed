@@ -76,3 +76,5 @@ When a PR is merged, **contributors receive slices granting them a part of the f
 Discussion on the slices to be issued can happen on Github or elsewhere. Once the PR is merged, the agreed amount of slices is minted to all contributors and maintainers involved.
 
 Learn how Slice works on the [website](https://slice.so) or ask questions on [Discord](https://discord.gg/c7puDHjgMU).
+
+<!--  -->
